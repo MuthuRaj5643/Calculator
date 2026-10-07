@@ -2,4 +2,4 @@ print("Sub is :" , 4-2)
 print ("Add is:", 9+8)
 print ("Multiply is:",4*3)
 print("Div is :" , 4/2)
-
+print ("Answer is:", 3+4+5)
